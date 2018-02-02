@@ -13,3 +13,4 @@ We created a basic sentiment analysis for La Salsa’s yelp reviews using Vader 
 
 On average, the Pico Boulevard La Salsa location gets an average 0.23 compound score. In other words, La Salsa eaters rated the food and atmosphere as above average (if 2.5 stars is considered as average), which falls in line with the restaurant’s 3.5 star rating.  
 
+Read Here: https://wordpress.com/post/beyondtheaverage.wordpress.com/1291
